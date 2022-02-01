@@ -1,6 +1,8 @@
 <div align="center">
 
 # Editor
+  
+  https://editor.domidev.net
 
 </div>
 
@@ -14,6 +16,7 @@
 
 ### Features:
 
+- Hosted using Netlify.app
 - No installation, work online and build web pages.
 - Auto Save of all your work
 - Supports JQuery
