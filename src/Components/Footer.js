@@ -9,7 +9,7 @@ function Footer() {
   return (
     <div>
       <Container fluid className="footer">
-        Copyright © {year} | Made with <i className="far fa-heart"></i>{" "}
+        Copyright © {year} | Made <i className="far fa-heart"></i>{" "}
         domi
       </Container>
     </div>
